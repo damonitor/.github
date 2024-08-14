@@ -10,7 +10,7 @@ repositories that related to [DAMON](https://damonitor.github.io).
 - hackermail: A tool for DAMON mailing lists
   - main repo: https://github.com/sjp38/lazybox
   - kernel.org mirror: https://git.kernel.org/sj/hkml/h/master
-- damonitor.gitgub.io: Project site hosting
+- damonitor.github.io: Project site hosting
 - damon-hack: Scripts, patches, and misc files for helping DAMON maintenance
   - main repo: https://git.kernel.org/sj/damon-hack/h/master
 - damoos: Previous experimental implementation of DAMOS auto-tuning
