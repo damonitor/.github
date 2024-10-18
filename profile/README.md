@@ -4,7 +4,7 @@ project.
 - [damo](https://github.com/damonitor/damo): DAMON user-space tool
   - kernel.org repo: https://git.kernel.org/sj/damo/h/next
 - [damon-tests](https://github.com/damonitor/damon-tests): DAMON tests suite
-- damon-hack: Scripts, patches, and misc files for helping DAMON maintenance
+- [damon-hack](https://github.com/damonitor/damon-hack): Scripts, patches, and misc files for helping DAMON maintenance
   - kernel.org repo: https://git.kernel.org/sj/damon-hack/h/master
 - [linux](https://github.com/damonitor/linux): Linux kernel source tree for
   DAMON development
